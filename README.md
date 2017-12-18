@@ -1,2 +1,2 @@
 # SoundexCastellano
-library to compare words phonetically in Spanish
+Library to compare words phonetically in Spanish
